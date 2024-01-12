@@ -1,1 +1,2 @@
-Used to record CINTA's learning
+关于CINTA的作业与笔记
+欢迎交流~
